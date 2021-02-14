@@ -1,6 +1,8 @@
 # Blog Website
 https://goandmakeachange.com/
 
+![](https://github.com/Wahab3917/GoAndMakeAChange/blob/main/goandmakeachange.png)
+
 ## Description:
 A blogging website of a Pakistan-based group of Content Writers that write blogs on various helpful topics.
 
